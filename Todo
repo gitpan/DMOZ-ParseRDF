@@ -1,0 +1,6 @@
+1) *Try*, if possible, to speed up parsing and lower CPU power.
+
+2) In a (near) future release there will also be the ability to compress
+   output files.
+
+If anyone has feature requests please send an email to <paul@wilsonprograms.com>

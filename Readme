@@ -1,0 +1,29 @@
+DESCRIPTION
+
+Parse the DMOZ content file into smaller sub-sections for use in
+a custom database.
+
+Please make sure you read the DMOZ license agreement first:
+
+http://dmoz.org/license.html
+
+INSTALLATION
+
+perl Makefile.PL
+make
+make test
+make install
+
+LICENSE
+
+DMOZ::ParseRDF is provided "as is" and without any express or implied
+warranties, including, without limitation, the implied warranties of
+merchantibility and fitness for a particular purpose. DMOZ::ParseRDF
+is released under the same terms as Perl itself. For more information
+see the "README" or "Artistic" files provided with the Perl
+distribution.
+
+BUGS
+
+Please report any bugs, booboos or bugger-ups to Paul Wilson 
+<paul@wilsonprograms.com>.
