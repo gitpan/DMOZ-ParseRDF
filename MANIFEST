@@ -3,3 +3,4 @@ Makefile.PL
 README
 Todo
 MANIFEST
+t/use.t

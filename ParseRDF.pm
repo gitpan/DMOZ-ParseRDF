@@ -1,5 +1,5 @@
 #==========================================================
-# $Id: ParseRDF.pm,v 0.13 2004/01/09 18:07:42 paul Exp $
+# $Id: ParseRDF.pm,v 0.14 2004/01/12 19:04:31 paul Exp $
 #==========================================================
 # Copyright Paul Wilson 2003. All Rights Reserved.
 # You may distribute this module under the terms of either 
@@ -14,7 +14,7 @@
     use vars qw/$ERRORS $VERSION $ATTRIBS $error/;
 
     $error   = '';
-    $VERSION = sprintf("%d.%02d", q$Revision: 0.13 $ =~ /(\d+)\.(\d+)/o);
+    $VERSION = sprintf("%d.%02d", q$Revision: 0.14 $ =~ /(\d+)\.(\d+)/o);
     $ATTRIBS = {
         rdf_gzip_stream => 0,
         rdf_local_file  => undef,
